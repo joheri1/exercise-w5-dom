@@ -10,7 +10,7 @@ In this week’s team session, you will practice JavaScript basics and work on a
 
 ### Instructions:
 
-Take a look into the index.js file and follow the instructions to complete the exercises. If you're up for a bit of an extra challenge, you can complete the stretch goals!
+Fork and clone this repository and open it up in the browser. You will have the instructions and stretch goals on the screen. (And in the HTML file). Good luck and enjoy!
 
 ## Getting Started with the Project
 
