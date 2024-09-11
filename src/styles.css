@@ -18,4 +18,13 @@ body {
     text-align: center;
     justify-content: center;
   }
+  .dark {
+    background-color: black;
+  }
+  .light {
+    background-color: antiquewhite;
+  }
+  .crazy {
+    background-color: hotpink;
+  }
   
